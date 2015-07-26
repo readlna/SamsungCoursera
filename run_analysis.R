@@ -176,4 +176,4 @@ means<-means[,2:69]
 colnames(means)[1]<-"activity"
 
 # export means data table to a textfile
-write.table(means, "averages.txt")
+write.table(means, "averages.txt", row.names = FALSE)
