@@ -1,4 +1,3 @@
-rm(list=ls())
 # ----- reading TEST datasets
       # Inertial signals
             # body acceleration signal obtained by subtracting the gravity from the total acceleration
